@@ -9,6 +9,9 @@ Email Me 👉 ✉️ **bk.jha.3297@gmail.com** For Collaboration/Project or Anyt
 - 📫 **How to reach me:** bk.jha.3297@gmail.com
 - ⚡ **Fun fact:** Tech is my passion, and I’m tech’s obsession.
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bhagwanjha85&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhagwanjha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagwan-jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bk.jha.3297@gmail.com) 
 
@@ -18,9 +21,6 @@ Email Me 👉 ✉️ **bk.jha.3297@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-readme-stats.vercel.app/api?username=Bhagwanjha85&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhagwanjha85&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagwanjha85&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhagwanjha85&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Snake Game Repo View -->
 
