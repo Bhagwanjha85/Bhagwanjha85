@@ -1,12 +1,7 @@
-# 💫 Hi 👋, I'm Bhagwan Jha
+# Hi 👋, I'm Bhagwan Jha
 **A passionate Data Scientist || Data Analyst || Software developer**
 
-Email Me 👉 ✉️ **bhagwanjijha050@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 👯 **I’m looking to collaborate on:** Data Science project(s)
-- 💬 **Ask me about:** Collaboration, Tech Support(s)
-- 📫 **How to reach me:** bhagwanjijha050@gmail.com
-- ⚡ **Fun fact:** Tech is my passion, and I’m tech’s obsession.
+- **I’m looking to collaborate on:** Data Science project(s)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhagwanjha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagwan-jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bk.jha.3297@gmail.com) 
