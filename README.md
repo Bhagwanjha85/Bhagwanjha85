@@ -1,5 +1,5 @@
 # Hi 👋, I'm Bhagwan Jha
-**A passionate Data Scientist || Data Analyst || Software developer**
+**A passionate Data Scientist || Software developer**
 
 - **I’m looking to collaborate on:** Data Science project(s)
 
