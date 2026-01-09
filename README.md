@@ -1,7 +1,7 @@
 # Hi 👋, I'm Bhagwan Jha
-**A passionate Data Scientist || Software developer**
+**A passionate Software developer**
 
-- **I’m looking to collaborate on:** Data Science project(s)
+- **I’m looking to collaborate on:** Full-Stack Project
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhagwanjha_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagwan-jha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bk.jha.3297@gmail.com) 
