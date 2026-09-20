@@ -1,5 +1,5 @@
 # Hi 👋, I'm Bhagwan Jha
-**A passionate Software developer**
+**A passionate Developer and Researcher**
 
 - **I’m looking to collaborate on:** Full-Stack Project
 
